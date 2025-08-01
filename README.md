@@ -17,7 +17,7 @@ I’m a **Full Stack Developer** passionate about building **scalable**, **effic
 
 ### 💼 Featured Projects
 
-- **🗺️ MetroGuide**  
+- **🗺️ [MetroGuide](https://metroguide-9nuv.vercel.app/)**  
   A web-based metro navigation app for Kolkata using **Dijkstra’s Algorithm** for shortest path optimization. Also helps users explore **nearby places** like tourist spots, enhancing their commuting experience.
 
 - **🏢 NSS Edge Consulting Website**  
