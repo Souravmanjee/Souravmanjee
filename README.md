@@ -20,10 +20,10 @@ I’m a **Full Stack Developer** passionate about building **scalable**, **effic
 - **🗺️ [MetroGuide](https://metroguide-9nuv.vercel.app/)**  
   A web-based metro navigation app for Kolkata using **Dijkstra’s Algorithm** for shortest path optimization. Also helps users explore **nearby places** like tourist spots, enhancing their commuting experience.
 
-- **🏢 NSS Edge Consulting Website**  
+- **🏢 [NSS Edge Consulting Website](https://www.nssedgeconsulting.com/)**  
   Built and deployed a **responsive full-stack website** for a consulting firm with dynamic backend integrations.
 
-- **👥 Employee Management Dashboard**  
+- **👥 [Employee Management Dashboard](https://www.nsseconsulting.services/)**  
   A full-featured HR portal with:
   - 👨‍💼 **Admin Panel**: Manage employees, monitor online status, handle salaries, leaves, and internal messages.
   - 👷 **Employee Panel**: Punch in/out, break tracking, leave applications, salary view, and chat with admin.
