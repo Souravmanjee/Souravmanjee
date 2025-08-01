@@ -76,8 +76,8 @@ I’m a **Full Stack Developer** passionate about building **scalable**, **effic
 
 ### 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-link)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sourav-manjee-78a49a260/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)](https://github.com/Souravmanjee)
 
 ---
 
